@@ -34,6 +34,6 @@ async def ping(*args):
 	await client.say("This bot was created by **Wesfun#0748**, Hope you enjoy all the great things it will be able to do! ")
 # After you have modified the code, feel free to delete the line above so it does not keep popping up everytime you initiate the ping commmand.
 	
-client.run('PUT YOUR BOT TOKEN HERE')
+client.run('PUT THE BOT TOKEN HERE')
 
 # WackyBot created by Wesfun#0748
