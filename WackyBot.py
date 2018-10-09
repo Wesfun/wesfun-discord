@@ -37,8 +37,3 @@ async def ping(*args):
 client.run('PUT YOUR BOT TOKEN HERE')
 
 # WackyBot created by Wesfun#0748
-# Please modify the parts of the code where it asks you to. Example: The Prefix or The Bot Token
-# Thank you for using this and don't forget to star my repo on GitHub! [Repo Link: https://github.com/Habchy/BasicBot]
-
-# The help command is currently set to be not be Direct Messaged.
-# If you would like to change that, change "pm_help = False" to "pm_help = True" on line 9.
