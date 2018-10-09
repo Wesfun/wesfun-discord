@@ -23,7 +23,7 @@ async def on_ready():
 	print('--------')
 	print('You are running WackyBot v1.0')
 	print('Created by Wesfun#0748')
-	return await client.change_presence(game=discord.Game(name='PLAYING STATUS HERE')) #This is buggy, let me know if it doesn't work.
+	return await client.change_presence(game=discord.Game(name='on Discord!')) #This is buggy, let me know if it doesn't work.
 
 # This is a basic example of a call and response command. You tell it do "this" and it does it.
 @client.command()
